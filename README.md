@@ -103,7 +103,7 @@ All projects are **self-contained** and include **main.cpp** examples to test al
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AboubakerDev/DataStructuresProjects.git
+git clone https://github.com/AboubakerDev/DataStructures-Training.git
 
 Open the project folder of interest (e.g., Project1_DoublyLinkedList) in Visual Studio or your preferred C++ IDE.
 Include the header files in your main.cpp if needed and run the provided main.cpp to test all features.
