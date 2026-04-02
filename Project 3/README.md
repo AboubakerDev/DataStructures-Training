@@ -18,8 +18,7 @@ This project is designed for learning **Data Structures** and practicing stack o
 
 ## Usage
 
-1. Include `clsMyStack.h`, `clsMyQueue.h`, and `clsDblLinkedList.h` in your project.
-2. Create an instance of the stack:
+1. Create an instance of the stack:
 ```cpp
 clsMyStack<int> stack;
 
