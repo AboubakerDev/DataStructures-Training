@@ -9,34 +9,42 @@ All projects are **self-contained** and include **main.cpp** examples to test al
 
 /DataStructuresProjects
 │
+
 ├─ Project1_DoublyLinkedList/
 │ ├─ clsDblLinkedList.h
 │ └─ main.cpp
 │
+
 ├─ Project2_QueueUsingLinkedList/
 │ ├─ clsMyQueue.h
 │ └─ main.cpp
 │
+
 ├─ Project3_StackUsingLinkedList/
 │ ├─ clsMyStack.h
 │ └─ main.cpp
 │
+
 ├─ Project4_DynamicArray/
 │ ├─ clsDynamicArray.h
 │ └─ main.cpp
 │
+
 ├─ Project5_QueueUsingDynamicArray/
 │ ├─ clsMyQueueArr.h
 │ └─ main.cpp
 │
+
 ├─ Project6_StackUsingDynamicArray/
 │ ├─ clsMyStackArr.h
 │ └─ main.cpp
 │
+
 ├─ Project7_MyStringWithUndoRedo/
 │ ├─ clsMyString.h
 │ └─ main.cpp
 │
+
 └─ Project8_QueueLineSystem/
 ├─ clsQueueLine.h
 ├─ clsDate.h
