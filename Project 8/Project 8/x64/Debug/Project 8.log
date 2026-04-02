@@ -1,0 +1,11 @@
+﻿  Project 8.cpp
+D:\ديسك دير\محمد ابو هدهود\13 - Algorithms & Problem Solving Level 5\Project 8\Project 8\clsString.h(39,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%208.cpp')
+  
+D:\ديسك دير\محمد ابو هدهود\13 - Algorithms & Problem Solving Level 5\Project 8\Project 8\clsString.h(62,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%208.cpp')
+  
+D:\ديسك دير\محمد ابو هدهود\13 - Algorithms & Problem Solving Level 5\Project 8\Project 8\clsQueueLine.h(107,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Project%208.cpp')
+  
+  Project 8.vcxproj -> D:\ديسك دير\محمد ابو هدهود\13 - Algorithms & Problem Solving Level 5\Project 8\x64\Debug\Project 8.exe
