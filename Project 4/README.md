@@ -19,8 +19,7 @@ This project is designed for learning **Data Structures** and practicing array o
 
 ## Usage
 
-1. Include `clsDynamicArray.h` in your project.
-2. Create an instance of the dynamic array:
+1. Create an instance of the dynamic array:
 ```cpp
 clsDynamicArray<int> arr(5); // array of size 5
 
