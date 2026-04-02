@@ -17,8 +17,7 @@ It demonstrates the fundamental operations on a doubly linked list and can be us
 
 ## Usage
 
-1. Include `clsDblLinkedList.h` in your project.
-2. Create an instance of the template class:
+1. Create an instance of the template class:
 ```cpp
 clsDblLinkedList<int> list;
 
