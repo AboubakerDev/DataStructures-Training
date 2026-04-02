@@ -20,8 +20,7 @@ This project is designed for learning **Data Structures** and practicing queue o
 
 ## Usage
 
-1. Include `clsMyQueue.h` and `clsDblLinkedList.h` in your project.
-2. Create an instance of the queue:
+Create an instance of the queue:
 ```cpp
 --clsMyQueue<int> queue;
 
