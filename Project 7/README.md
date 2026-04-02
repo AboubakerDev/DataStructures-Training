@@ -17,12 +17,12 @@ This project is designed for learning **Data Structures and Stack operations**.
 1. Include `clsMyString.h` in your project.
 2. Create an instance of the string class:
 ```cpp
-clsMyString str;
+
 
 3.Set values and use Undo/Redo:
-str.Value = "Hello";
-str.Undo();
-str.Redo();
+str.Value = "Hello"
+str.Undo()
+str.Redo()
 4.Run the provided main.cpp to see examples of all operations.
 Example
 #include "clsMyString.h"
